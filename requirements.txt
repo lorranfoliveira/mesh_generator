@@ -1,0 +1,5 @@
+numpy~=1.23.4
+Shapely~=1.8.5.post1
+matplotlib~=3.6.2
+descartes~=1.1.0
+ezdxf~=0.18.1
